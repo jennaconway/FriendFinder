@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "sequelizer": "^1.1.3",
+    "port": "process:env.PORT || 3000"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennaconway/FriendFinder.git"
+  },
+  "author": "Jenna Conway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennaconway/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jennaconway/FriendFinder#readme"
+}

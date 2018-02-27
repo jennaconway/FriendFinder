@@ -1,8 +1,72 @@
 var friendsArray = [{
-    "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Pasta 1",
+    "photo":"",
     "scores":[
+        5,// Question 1
+        1,
+        4,
+        4,
         5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Pasta 2",
+    "photo":"",
+    "scores":[
+        5,// Question 1
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Pasta 3",
+    "photo":"",
+    "scores":[
+        5,// Question 1
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Pasta 4",
+    "photo":"",
+    "scores":[
+        5,// Question 1
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Pasta 4",
+    "photo":"",
+    "scores":[
+        5,// Question 1
         1,
         4,
         4,

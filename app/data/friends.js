@@ -1,6 +1,6 @@
-var friendsArray = [{
-    "name":"Pasta 1",
-    "photo":"",
+var pastaArray = [{
+    "name":"Penne",
+    "photo":"images/PennePasta.jpg",
     "scores":[
         5,// Question 1
         1,
@@ -15,8 +15,8 @@ var friendsArray = [{
       ]
   },
   {
-    "name":"Pasta 2",
-    "photo":"",
+    "name":"Ravioli",
+    "photo":"images/Ravioli.jpg",
     "scores":[
         5,// Question 1
         1,
@@ -31,8 +31,8 @@ var friendsArray = [{
       ]
   },
   {
-    "name":"Pasta 3",
-    "photo":"",
+    "name":"Bowtie",
+    "photo":"images/Bowtie.jpg",
     "scores":[
         5,// Question 1
         1,
@@ -47,8 +47,8 @@ var friendsArray = [{
       ]
   },
   {
-    "name":"Pasta 4",
-    "photo":"",
+    "name":"Campanelle",
+    "photo":"images/Campanelle.jpg",
     "scores":[
         5,// Question 1
         1,
@@ -63,8 +63,8 @@ var friendsArray = [{
       ]
   },
   {
-    "name":"Pasta 4",
-    "photo":"",
+    "name":"Fusilli",
+    "photo":"iamges/Fusilli.jpg",
     "scores":[
         5,// Question 1
         1,
@@ -79,4 +79,4 @@ var friendsArray = [{
       ]
   }];
 
-  module.exports = friendsArray;
+  module.exports = pastaArray;

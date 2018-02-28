@@ -29,7 +29,6 @@ module.exports = function (app) {
       };
     }
 
-
     if (friendsData.length < 20) {
       tableData.push(req.body);
       res.json(true);
